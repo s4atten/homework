@@ -197,12 +197,12 @@ int e7()
 int main()
 {
     setlocale(LC_ALL, "Russian");
-    e1;
-    e2;
-    e3;
-    e4;
-    e5;
-    e6;
+    e1();
+    e2();
+    e3();
+    e4();
+    e5();
+    e6();
     e7();
 	return 0;
 }
